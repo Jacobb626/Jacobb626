@@ -2,7 +2,7 @@
 
 I Like C++
 
-[!Idk](https://github-readme-stats.vercel.app/api?username=Jacobb626&count_private=true&show_icons=true)
+![Idk](https://github-readme-stats.vercel.app/api?username=Jacobb626&count_private=true&show_icons=true)
 
 Here are some ideas to get you started:
 
